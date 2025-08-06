@@ -90,6 +90,7 @@ TEMPLATES = [
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',  # Frontend URL for development
     'https://your-frontend-domain.com',  # Production frontend URL
+    'https://livesure-api-tester.onrender.com',  # Example for API tester
 ]
 
 # REST Framework settings
